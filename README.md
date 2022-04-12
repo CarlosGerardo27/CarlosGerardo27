@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosgerardo27&label=Profile%20views&color=0e75b6&style=flat" alt="carlosgerardo27" /> </p>
 
-- 🧘 I’m currently working on [Desansiedad](https://www.desansiedad.com/)
+- 🧘 I’m currently working on [Desansiedad](https://www.desansiedad.com/) my job is related to Web Design and I do Marketing too, I create lead funnels and work on Convertion Rate optmization using  UX and a set of low code and no code tools. 
 
 - 🌱 I’m currently learning **Node JS and Vuex**
 
