@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/carlos-gerardo-rocha-sansores/](https://www.linkedin.com/in/carlos-gerardo-rocha-sansores/)
 
-- ⚡ Fun fact **I love poetry and writting short stories, I while ago i was obses with tiktok and I created more than 100 tiktoks in 1 month**
+- ⚡ Fun fact **I love poetry and writting short stories, while ago i was obses with tiktok and I created more than 100 tiktoks in 1 month**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
