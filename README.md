@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosgerardo27&label=Profile%20views&color=0e75b6&style=flat" alt="carlosgerardo27" /> </p>
 
-- 🧘 I’m currently working on my own on [SequenceFlow](https://www.sequenceflow.io) at my No-Code/Low-Code agency.
+- 🧘 I’m currently working on my own, [SequenceFlow](https://www.sequenceflow.io) is my No-Code/Low-Code agency.
 
 - 🌱 I’m currently learning **Node JS**
 
