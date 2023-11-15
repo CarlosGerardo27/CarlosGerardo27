@@ -3,25 +3,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosgerardo27&label=Profile%20views&color=0e75b6&style=flat" alt="carlosgerardo27" /> </p>
 
-- 🧘 I’m currently working on [Desansiedad](https://www.desansiedad.com/) my job is related to Web Design and I do Marketing too, I create lead funnels and work on Convertion Rate optmization using  UX and a set of low code and no code tools. 
+- 🧘 I’m currently working on my own on [SequenceFlow](https://www.sequenceflow.io) at my No-Code/Low-Code agency.
 
-- 🌱 I’m currently learning **Node JS and Vuex**
+- 🌱 I’m currently learning **Node JS**
 
-- 🐲 I’m looking to collaborate on **growing organizations that focus on innovation and building strong teams based on trust**
+- 🐲 I’m looking to collaborate on **growing organizations that focus on providing the best experience to their clients but also, companies looking for bootstrap projects**
 
-- 🤝 I’m looking to help **with my expertice on creating user based solutions and with my skills on lead funnels**
+- 🤝 I’m looking to help **with my expertise in creating user-based solutions and with my skills in lead funnels**
+  
+- 👨‍💻 No-Code projects are available at [Sequenceflow.io/portfolio](https://www.sequenceflow.io/portfolio)
 
-- 👨‍💻 All of my projects are available at [https://carlosgerardo27.github.io/](https://carlosgerardo27.github.io/)
+- 👨‍💻 Code projects are available at [https://carlosgerardo27.github.io/](https://carlosgerardo27.github.io/)
 
-- 📝 I regularly write articles on [https://carlosgerardo27.github.io/my_launchx_blog/](https://carlosgerardo27.github.io/my_launchx_blog/)
+- 💬 Ask me about **HTML, CSS, JavaScript**. You can also ask me about No-Code, I have experience with Xano, bubble, Make, Webflow, Notion, Airtable and a lot more, but these are my regular stack.
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Jest**
-
-- 📫 How to reach me **carlosgerardo_rocha@outlook.com**
+- 📫 How to reach me **carlos@sequenceflow.io**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/carlos-gerardo-rocha-sansores/](https://www.linkedin.com/in/carlos-gerardo-rocha-sansores/)
 
-- ⚡ Fun fact **I love poetry and writting short stories, while ago i was obses with tiktok and I created more than 100 tiktoks in 1 month**
+- ⚡ Fun fact **I love poetry and writing short stories, -I used to be obsessed with TikTok and I created more than 100 videos in 1 month**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
