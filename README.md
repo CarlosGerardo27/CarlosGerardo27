@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Gerardo</h1>
-<h3 align="center">A passionate frontend developer from México and moving forward to become a Fullstack Developer</h3>
+<h3 align="center">A passionate frontend developer from México and I also have tons of experience building No-Code/Low Code solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosgerardo27&label=Profile%20views&color=0e75b6&style=flat" alt="carlosgerardo27" /> </p>
 
